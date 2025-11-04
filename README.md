@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2 align="center">✨ Hey, I'm Sikta Roy ✨</h2>
 
-<!--
-**sikta-roy/sikta-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love turning ideas into user-friendly digital products.  
+Right now I'm experimenting with **AI + audio + creativity** — and having fun while building!
 
-Here are some ideas to get you started:
+### 🌟 Currently Working On
+🎧 **Pulse:** AI tool for podcast creation  
+💻 Leveling up in TypeScript & full-stack dev  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💭 Interests
+- AI and creative tools
+- UI/UX with a clean aesthetic
+- Building products that feel *human*
+
+### 🤝 Open To
+- Collaborations
+- Open-source contributions
+- Learning with like-minded builders
+
+> *“Code with curiosity, create with heart.”*
