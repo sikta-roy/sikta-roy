@@ -12,7 +12,7 @@
 
 ## 🚀 Quick Overview
 
-- 🎓 **M.Tech in CSE (Information Security)** at NIT Calicut (2025–2027) · CGPA 8.85
+- 🎓 **M.Tech in CSE (Information Security)** at NIT Calicut (2025–2027) 
 - 🎓 **B.Tech in CSE** at Institute of Engineering & Management, Kolkata (2021–2025) · CGPA 9.73
 - 🛠️ **Currently working on** an LLM-powered **Code Migration Tool** that translates code between languages (e.g. Python → Go / Rust)
 - 🔬 **Research Intern at TCS Research** (May–Jul 2026) — studied links between music listening and mental well-being using LLMs
