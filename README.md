@@ -58,7 +58,7 @@
 | Project | What it does | Tech |
 |---|---|---|
 | 🔄 **Code Migration Tool** *(in progress)* | Uses LLMs to translate code from one language to another, e.g. Python to Go or Rust | Python · LLMs |
-| 🎧 [**Pulse**](https://github.com/sikta-roy/pulse) | AI SaaS platform to create, discover and enjoy podcasts — multi-voice text-to-audio, AI thumbnails, smooth playback | Next.js · TypeScript · OpenAI · Tailwind |
+| 🎧 [**Pulse**](https://github.com/sikta-roy/pulse) | AI SaaS platform to create, discover and enjoy podcasts - multi-voice text-to-audio, AI thumbnails, smooth playback | Next.js · TypeScript · OpenAI · Tailwind |
 | 📖 **Orator** | Android app that reads text from images (OCR) and lets you copy it or hear it aloud (TTS) | Java · XML |
 | 🥁 **Drum Kit** | A virtual drum kit for all the drum lovers out there | HTML · CSS · JavaScript |
 
