@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Sikta+Roy+%E2%9C%A8;M.Tech+%40+NIT+Calicut;Building+an+LLM+Code+Migration+Tool;Code+with+curiosity%2C+create+with+heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=E11D48&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Sikta+Roy+%E2%9C%A8" alt="Hey, I'm Sikta Roy" />
 </h1>
 
 <h3 align="center">An Information Security student and AI enthusiast from Kolkata, India 🥰</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sikta-roy-2a0153234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siktaroy27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=siktaroy27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/sikta-roy?tab=followers"><img src="https://img.shields.io/github/followers/sikta-roy?style=for-the-badge&label=Follow&color=FF69B4" /></a>
 </p>
 
